@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 Developer for Vice Central.<br>
+# 🔭 Developer for Vice Central.<br>
 
 
 ## 🌐 Socials:
